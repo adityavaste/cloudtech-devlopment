@@ -249,16 +249,19 @@ bottomCta={{
           </div>
 
           <div className="mt-16 text-center">
-            <Link
-              href="#audit"
-              className="inline-flex items-center gap-2 px-8 py-4 rounded-xl font-semibold text-white shadow-lg bg-blue-600 hover:bg-blue-700 transition-all"
-            >
-              Get My 14-Day Launch Plan
-              <ArrowRight className="w-4 h-4" />
-            </Link>
-            <p className="mt-3 text-sm text-muted-foreground">
-              Free. No commitment. Delivered to your inbox in 5 minutes.
-            </p>
+           <Link
+  href="https://wa.me/917350247244?text=Hi%2C%20I%27d%20like%20to%20get%20my%2014-day%20launch%20plan."
+  target="_blank"
+  rel="noopener noreferrer"
+  className="inline-flex items-center gap-2 px-8 py-4 rounded-xl font-semibold text-white shadow-lg bg-blue-600 hover:bg-blue-700 transition-all"
+>
+  Get My 14-Day Launch Plan
+  <ArrowRight className="w-4 h-4" />
+</Link>
+
+<p className="mt-3 text-sm text-muted-foreground">
+  Free. No commitment. Get your plan on WhatsApp in 5 minutes.
+</p>
           </div>
         </div>
       </section>
